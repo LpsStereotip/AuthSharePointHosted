@@ -1,0 +1,5 @@
+D:\Local\AuthSharePointHosted\AuthSharePointHosted\bin\Debug\AuthSharePointHosted.pdb
+D:\Local\AuthSharePointHosted\AuthSharePointHosted\bin\Debug\AuthSharePointHosted.xml
+D:\Local\AuthSharePointHosted\AuthSharePointHosted\obj\Debug\AuthSharePointHosted.dll
+D:\Local\AuthSharePointHosted\AuthSharePointHosted\obj\Debug\AuthSharePointHosted.xml
+D:\Local\AuthSharePointHosted\AuthSharePointHosted\obj\Debug\AuthSharePointHosted.pdb

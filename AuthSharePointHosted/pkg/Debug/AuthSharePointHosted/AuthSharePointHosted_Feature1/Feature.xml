@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Description="SharePoint App Feature" Id="d0b4ba49-27f4-4b9a-9fec-3706db62e4cd" Scope="Web" Title="AuthSharePointHosted Feature1" Version="1.0.0.0">
+  <ElementManifests>
+    <ElementManifest Location="Pages\Elements.xml" />
+    <ElementFile Location="Pages\Default.aspx" />
+    <ElementManifest Location="Scripts\Elements.xml" />
+    <ElementFile Location="Scripts\App.js" />
+    <ElementFile Location="Scripts\jquery-1.9.1.min.map" />
+    <ElementFile Location="Scripts\jquery-1.9.1.min.js" />
+    <ElementFile Location="Scripts\jquery-1.9.1.js" />
+    <ElementFile Location="Scripts\jquery-1.9.1.intellisense.js" />
+    <ElementFile Location="Scripts\674f50d287a8c48dc19ba404d20fe713.eot" />
+    <ElementFile Location="Scripts\912ec66d7572ff821749319396470bde.svg" />
+    <ElementFile Location="Scripts\af7ae505a9eed503f8b8e6982036873e.woff2" />
+    <ElementFile Location="Scripts\app.conf" />
+    <ElementFile Location="Scripts\b06871f281fee6b241d60582ae9369b9.ttf" />
+    <ElementFile Location="Scripts\bundle.72fae48de4107b46ea12.css" />
+    <ElementFile Location="Scripts\bundle.72fae48de4107b46ea12.css.map" />
+    <ElementFile Location="Scripts\bundle.dee1db310796fb445485.js" />
+    <ElementFile Location="Scripts\bundle.dee1db310796fb445485.js.map" />
+    <ElementFile Location="Scripts\e57a7020b2c7ac93f58670487b0df017.png" />
+    <ElementFile Location="Scripts\fee66e712a8a08eef5805a46892932ad.woff" />
+    <ElementFile Location="Scripts\index.html" />
+    <ElementFile Location="Scripts\polyfills.84fba4e81518469ff217.js" />
+    <ElementFile Location="Scripts\polyfills.84fba4e81518469ff217.js.map" />
+    <ElementManifest Location="Content\Elements.xml" />
+    <ElementFile Location="Content\App.css" />
+    <ElementManifest Location="Images\Elements.xml" />
+    <ElementFile Location="Images\AppIcon.png" />
+  </ElementManifests>
+  <UpgradeActions>
+    <VersionRange>
+      <ApplyElementManifests>
+        <ElementManifest Location="Pages\Elements.xml" />
+        <ElementManifest Location="Scripts\Elements.xml" />
+        <ElementManifest Location="Content\Elements.xml" />
+        <ElementManifest Location="Images\Elements.xml" />
+      </ApplyElementManifests>
+    </VersionRange>
+  </UpgradeActions>
+</Feature>

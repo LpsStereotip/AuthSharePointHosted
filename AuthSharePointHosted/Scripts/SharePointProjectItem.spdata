@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ProjectItem Type="Microsoft.VisualStudio.SharePoint.Module" DefaultFile="Elements.xml" SupportedTrustLevels="All" SupportedDeploymentScopes="Web, Site" xmlns="http://schemas.microsoft.com/VisualStudio/2010/SharePointTools/SharePointProjectItemModel">
+  <Files>
+    <ProjectItemFile Source="Elements.xml" Target="Scripts\" Type="ElementManifest" />
+    <ProjectItemFile Source="App.js" Target="Scripts\" Type="ElementFile" />
+    <ProjectItemFile Source="jquery-1.9.1.min.map" Target="Scripts\" Type="ElementFile" />
+    <ProjectItemFile Source="jquery-1.9.1.min.js" Target="Scripts\" Type="ElementFile" />
+    <ProjectItemFile Source="jquery-1.9.1.js" Target="Scripts\" Type="ElementFile" />
+    <ProjectItemFile Source="jquery-1.9.1.intellisense.js" Target="Scripts\" Type="ElementFile" />
+    <ProjectItemFile Source="674f50d287a8c48dc19ba404d20fe713.eot" Target="Scripts\" Type="ElementFile" />
+    <ProjectItemFile Source="912ec66d7572ff821749319396470bde.svg" Target="Scripts\" Type="ElementFile" />
+    <ProjectItemFile Source="af7ae505a9eed503f8b8e6982036873e.woff2" Target="Scripts\" Type="ElementFile" />
+    <ProjectItemFile Source="app.conf" Target="Scripts\" Type="ElementFile" />
+    <ProjectItemFile Source="b06871f281fee6b241d60582ae9369b9.ttf" Target="Scripts\" Type="ElementFile" />
+    <ProjectItemFile Source="bundle.72fae48de4107b46ea12.css" Target="Scripts\" Type="ElementFile" />
+    <ProjectItemFile Source="bundle.72fae48de4107b46ea12.css.map" Target="Scripts\" Type="ElementFile" />
+    <ProjectItemFile Source="bundle.dee1db310796fb445485.js" Target="Scripts\" Type="ElementFile" />
+    <ProjectItemFile Source="bundle.dee1db310796fb445485.js.map" Target="Scripts\" Type="ElementFile" />
+    <ProjectItemFile Source="e57a7020b2c7ac93f58670487b0df017.png" Target="Scripts\" Type="ElementFile" />
+    <ProjectItemFile Source="fee66e712a8a08eef5805a46892932ad.woff" Target="Scripts\" Type="ElementFile" />
+    <ProjectItemFile Source="index.html" Target="Scripts\" Type="ElementFile" />
+    <ProjectItemFile Source="polyfills.84fba4e81518469ff217.js" Target="Scripts\" Type="ElementFile" />
+    <ProjectItemFile Source="polyfills.84fba4e81518469ff217.js.map" Target="Scripts\" Type="ElementFile" />
+  </Files>
+</ProjectItem>
